@@ -6,3 +6,9 @@ Esse projeto trata-se do uso de matemática como um recurso criativo explorando 
 Segue o arquivodo projeto e descrições do mesmo:
 
 <a href="Avião no desmos.pdf" target="_blank">Avião no Desmos (PDF)</a>
+
+Link para o Geogebra:
+
+<a href="https://www.geogebra.org/m/czmqnxmn" target="_blank" rel="noopener">
+  🔗 Ver no GeoGebra
+</a>
